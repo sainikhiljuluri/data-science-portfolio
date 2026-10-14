@@ -68,6 +68,13 @@ This repository indexes my end-to-end data science projects. Each project covers
 - **[Thrilochana](https://apps.apple.com/us/app/thrilochana/id6759315151)** · FastAPI, PostgreSQL, Flutter, Google Cloud Run
   Agentic RAG document intelligence for retail invoices, live on the Apple App Store. Built with a read-only tool layer, hallucination guardrails, and canary deploys with automatic rollback.
 
+## Reference material (not my work)
+
+Study notebooks I use for reference. They are not projects of mine.
+
+- **[Appliance delivery routing with a VRP solver](https://github.com/sainikhiljuluri/vrp-appliance-delivery-sample)** · ArcGIS API for Python
+  Esri's sample, copied with attribution under Apache-2.0 for study. Routing and optimization workflow reference.
+
 ## Skills
 
 | Area | Tools and methods used in these projects |
